@@ -1,13 +1,7 @@
----
-layout: default
-title: Privacy Policy — Onlykinds Fitness
-permalink: /privacy-policy/
----
-
 # Privacy Policy
 
 **Onlykinds Fitness** · Focuser LLC
-Last updated September 1, 2026
+Last updated September 3, 2026
 
 ## Overview
 
@@ -37,7 +31,7 @@ We may also disclose information where required by law.
 
 Your training information is kept for as long as your account exists so your history is available in the app. Signing out stops syncing, and removing the app from your device deletes anything stored only on that device.
 
-To have your synced account and training data deleted, contact us using the details below and we will delete it.
+You can delete your account and its synced data yourself at any time from the Profile screen in the app — Profile → Delete Account. This permanently removes your account, profile, and synced training history from our servers. You can also contact us using the details below if you need help.
 
 ## Children
 
