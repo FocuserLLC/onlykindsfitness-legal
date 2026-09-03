@@ -29,7 +29,7 @@ Subscriptions are managed by the App Store (iPhone) or Google Play (Android), no
 Open the paywall in the app and tap **Restore Purchases**. If that doesn't work, make sure you're signed in to the same Apple ID / Google account used for the purchase, then restart the app. If it still doesn't show, email us.
 
 **How do I delete my account and data?**
-Email us at [info@focuserllc.com](mailto:info@focuserllc.com?subject=Onlykinds%20Fitness%20—%20Delete%20my%20account%20and%20data) with the subject "Delete my account and data". Full details are on the [Account Deletion page]({{ site.baseurl }}/account-data-deletion/). You can also delete individual programs (with all their logged data) from the Begin Program screen.
+Email us at [info@focuserllc.com](mailto:info@focuserllc.com?subject=Onlykinds%20Fitness%20—%20Delete%20my%20account%20and%20data) with the subject "Delete my account and data". Full details are on the [Account Deletion page]({{ site.baseurl }}/account-data-deletion). You can also delete individual programs (with all their logged data) from the Begin Program screen.
 
 **Can I use the app on multiple devices?**
 Yes. Sign in with the same account on each device and your programs, logs, weigh-ins, and notes will sync automatically.
