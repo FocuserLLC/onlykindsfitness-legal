@@ -1,6 +1,14 @@
-# Delete Your Account & Data — Onlykinds Fitness
+---
+layout: default
+title: Delete Your Account & Data — Onlykinds Fitness
+permalink: /account-data-deletion/
+---
 
-Onlykinds Fitness (by Focuse LLC) gives you full control over your account and the data stored with it. You can request deletion at any time — no questions asked.
+# Delete Your Account & Data
+
+**Onlykinds Fitness** · Focuser LLC
+
+Onlykinds Fitness gives you full control over your account and the data stored with it. You can request deletion at any time — no questions asked.
 
 ## How to request account deletion
 
@@ -24,4 +32,10 @@ When your account is deleted we remove:
 
 ## Questions
 
-Contact us any time at [info@focuserllc.com](mailto:info@focuserllc.com). See also our [Privacy Policy](privacy-policy.md).
+Contact us any time at [info@focuserllc.com](mailto:info@focuserllc.com).
+
+## Related documents
+
+- [Privacy Policy]({{ site.baseurl }}/privacy-policy/)
+- [Terms of Use]({{ site.baseurl }}/terms-of-use/)
+- [Support]({{ site.baseurl }}/support/)
