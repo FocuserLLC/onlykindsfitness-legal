@@ -1,18 +1,16 @@
----
-layout: default
-title: Delete Your Account & Data — Onlykinds Fitness
-permalink: /account-data-deletion/
----
-
-# Delete Your Account & Data
+# Delete Your Account & Data — Onlykinds Fitness
 
 **Onlykinds Fitness** · Focuser LLC
 
-Onlykinds Fitness gives you full control over your account and the data stored with it. You can request deletion at any time — no questions asked.
+Onlykinds Fitness gives you full control over your account and the data stored with it. You can delete everything at any time — no questions asked.
 
-## How to request account deletion
+## How to delete your account
 
-Email us at **[info@focuserllc.com](mailto:info@focuserllc.com?subject=Onlykinds%20Fitness%20—%20Delete%20my%20account%20and%20data)** with the subject "Delete my account and data". Send it from the email address you use to sign in so we can verify the account, and we will process the request and confirm by reply.
+**Delete it yourself in the app (fastest):** open the **Profile** screen and tap **Delete Account**, then confirm. This immediately and permanently removes your account and sign-in login, your profile, and all synced training history from our servers. Anything you logged while signed out stays on that device only.
+
+**Signed up but never confirmed your email?** That account still exists on our servers, so it can be deleted too: on the sign-in screen, enter the email and password you signed up with, then tap **Delete this account** on the confirmation notice.
+
+**Or email us:** at **[info@focuserllc.com](mailto:info@focuserllc.com?subject=Onlykinds%20Fitness%20—%20Delete%20my%20account%20and%20data)** with the subject "Delete my account and data". Send it from the email address you use to sign in so we can verify the account, and we will process the request and confirm by reply.
 
 You can also delete individual programs (including every rep, set, weigh-in, and note logged inside them) directly in the app: on the **Begin Program** screen, open the **···** menu on any program and choose **Delete Program**. This removes that program's logged data without deleting your account.
 
@@ -20,6 +18,7 @@ You can also delete individual programs (including every rep, set, weigh-in, and
 
 When your account is deleted we remove:
 
+- Your sign-in login itself, so the account can no longer be signed in to
 - Your sign-in profile (name, email address, user ID)
 - All synced workout logs (sets, reps, hold times)
 - All weigh-ins, notes, and program settings
@@ -36,6 +35,6 @@ Contact us any time at [info@focuserllc.com](mailto:info@focuserllc.com).
 
 ## Related documents
 
-- [Privacy Policy]({{ site.baseurl }}/privacy-policy/)
-- [Terms of Use]({{ site.baseurl }}/terms-of-use/)
-- [Support]({{ site.baseurl }}/support/)
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Use](terms-of-use.md)
+- [Support](support.md)
