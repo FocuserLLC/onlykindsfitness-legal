@@ -1,12 +1,6 @@
----
-layout: default
-title: Support — Onlykinds Fitness
-permalink: /support/
----
+# Support — Onlykinds Fitness
 
-# Support
-
-**Onlykinds Fitness** · Focuser LLC
+Onlykinds Fitness (by Focuser LLC)
 
 Welcome to the support page for Onlykinds Fitness. If something isn't working, or you have a question about your account, programs, or membership, we're here to help.
 
@@ -29,7 +23,7 @@ Subscriptions are managed by the App Store (iPhone) or Google Play (Android), no
 Open the paywall in the app and tap **Restore Purchases**. If that doesn't work, make sure you're signed in to the same Apple ID / Google account used for the purchase, then restart the app. If it still doesn't show, email us.
 
 **How do I delete my account and data?**
-Email us at [info@focuserllc.com](mailto:info@focuserllc.com?subject=Onlykinds%20Fitness%20—%20Delete%20my%20account%20and%20data) with the subject "Delete my account and data". Full details are on the [Account Deletion page]({{ site.baseurl }}/account-data-deletion). You can also delete individual programs (with all their logged data) from the Begin Program screen.
+Right in the app: open the **Profile** screen, tap **Delete Account**, and confirm. This permanently deletes your account and sign-in login, your profile, and all synced training history from our servers. Signed up but never confirmed your email? On the sign-in screen, enter the email and password you signed up with, then tap **Delete this account** on the confirmation notice. You can also email us at [info@focuserllc.com](mailto:info@focuserllc.com?subject=Onlykinds%20Fitness%20—%20Delete%20my%20account%20and%20data) with the subject "Delete my account and data". Full details are on the [Account Deletion page](account-data-deletion.md). To remove just one program (with all its logged data) and keep your account, use **Delete Program** on the Begin Program screen.
 
 **Can I use the app on multiple devices?**
 Yes. Sign in with the same account on each device and your programs, logs, weigh-ins, and notes will sync automatically.
@@ -38,10 +32,11 @@ Yes. Sign in with the same account on each device and your programs, logs, weigh
 Your logged data is stored on your device, so you can log workouts without a connection. It syncs to your account the next time you're online.
 
 **Is the app medical advice?**
-No. Onlykinds Fitness provides general fitness information and training tools only. It is not medical advice. See our [Health, Fitness & Medical Disclaimer]({{ site.baseurl }}/medical-disclaimer/) and consult a physician before starting any exercise program.
+No. Onlykinds Fitness provides general fitness information and training tools only. It is not medical advice. See our [Health, Fitness & Medical Disclaimer](medical-disclaimer.md) and consult a physician before starting any exercise program.
 
 ## Related documents
 
-- [Privacy Policy]({{ site.baseurl }}/privacy-policy/)
-- [Terms of Use]({{ site.baseurl }}/terms-of-use/)
-- [Delete Your Account & Data]({{ site.baseurl }}/account-data-deletion/)
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Use](terms-of-use.md)
+- [Delete Your Account & Data](account-data-deletion.md)
+
