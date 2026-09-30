@@ -8,9 +8,9 @@ permalink: /
 
 Legal documents for **Onlykinds Fitness**, provided by Focuser LLC.
 
-- [Privacy Policy]({{ site.baseurl }}/privacy-policy/)
-- [Terms of Use]({{ site.baseurl }}/terms-of-use/)
-- [Health, Fitness & Medical Disclaimer]({{ site.baseurl }}/medical-disclaimer/)
+- [Privacy Policy]({{ site.baseurl }}/privacy-policy)
+- [Terms of Use]({{ site.baseurl }}/terms-of-use)
+- [Health, Fitness & Medical Disclaimer]({{ site.baseurl }}/medical-disclaimer)
 
 ## Help & your account
 
