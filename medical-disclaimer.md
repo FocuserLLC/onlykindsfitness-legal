@@ -1,13 +1,7 @@
----
-layout: default
-title: Health, Fitness & Medical Disclaimer — Onlykinds Fitness
-permalink: /medical-disclaimer/
----
-
 # Health, Fitness & Medical Disclaimer
 
 **Onlykinds Fitness** · Focuser LLC
-Last updated September 1, 2026
+Last updated September 30, 2026
 
 ## Not medical advice
 
