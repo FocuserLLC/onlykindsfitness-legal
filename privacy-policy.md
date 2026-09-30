@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Onlykinds Fitness** · Focuser LLC
-Last updated September 3, 2026
+Last updated September 30, 2026
 
 ## Overview
 
@@ -13,7 +13,7 @@ Onlykinds Fitness ("the app") is provided by Focuser LLC ("we", "us", "our"). Th
 
 **Training information.** The workouts you log — sets, reps, weights or times, notes, weigh-ins and bodyweight entries, and your progress through the programs. This is stored on your device, and when you are signed in it is synced to our cloud database so your progress follows you between devices.
 
-**Membership information.** Subscriptions are purchased through Apple. We never see or store your payment card details; we receive your subscription status from Apple through RevenueCat, our subscription service provider, so the app knows which features are unlocked.
+**Membership information.** Subscriptions are purchased through the App Store (iPhone) or Google Play (Android). We never see or store your payment card details; we receive your subscription status from Apple or Google through RevenueCat, our subscription service provider, so the app knows which features are unlocked.
 
 ## How we use information
 
@@ -31,7 +31,9 @@ We may also disclose information where required by law.
 
 Your training information is kept for as long as your account exists so your history is available in the app. Signing out stops syncing, and removing the app from your device deletes anything stored only on that device.
 
-You can delete your account and its synced data yourself at any time from the Profile screen in the app — Profile → Delete Account. This permanently removes your account, profile, and synced training history from our servers. You can also contact us using the details below if you need help.
+You can delete your account and its synced data yourself at any time from the Profile screen in the app — Profile → Delete Account. This permanently removes your account and sign-in login, your profile, and your synced training history from our servers. You can also contact us using the details below if you need help.
+
+Copies of deleted data may persist in encrypted backups for up to 90 days before being permanently purged.
 
 ## Children
 
@@ -44,3 +46,4 @@ If we change this policy, the updated version will be shown in the app with a ne
 ## Contact
 
 Questions or requests about your privacy can be sent to info@focuserllc.com.
+
