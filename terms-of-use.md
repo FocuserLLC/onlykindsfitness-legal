@@ -1,13 +1,7 @@
----
-layout: default
-title: Terms of Use — Onlykinds Fitness
-permalink: /terms-of-use/
----
-
 # Terms of Use
 
 **Onlykinds Fitness** · Focuser LLC
-Last updated September 1, 2026
+Last updated September 30, 2026
 
 ## Agreement
 
@@ -15,13 +9,13 @@ These Terms of Use govern your use of Onlykinds Fitness, provided by Focuser LLC
 
 ## License
 
-We grant you a personal, non-transferable license to use the app on Apple devices you own or control, under the Usage Rules of the App Store. You may not copy, resell, reverse engineer, or use the app to build a competing product.
+We grant you a personal, non-transferable license to use the app on devices you own or control, under the usage rules of the store you installed it from (the App Store or Google Play). You may not copy, resell, reverse engineer, or use the app to build a competing product.
 
 ## Membership
 
-Access to programs requires an auto-renewing subscription purchased through your Apple Account. Payment is charged when you confirm the purchase, and again at the start of each billing period unless you cancel at least 24 hours before renewal.
+Access to programs requires an auto-renewing subscription purchased through your Apple Account (App Store) or Google account (Google Play). Payment is charged when you confirm the purchase, and again at the start of each billing period unless you cancel at least 24 hours before renewal.
 
-You can manage or cancel your membership, or restore it on a new device, through your Apple Account settings or the app's restore option. Refunds are handled by Apple under its policies.
+You can manage or cancel your membership, or restore it on a new device, through your App Store or Google Play subscription settings, or the app's restore option. Refunds are handled by Apple or Google under their policies.
 
 ## Your training data
 
@@ -44,5 +38,8 @@ The app is provided "as is" and "as available" without warranties of any kind, e
 To the maximum extent permitted by law, Focuser LLC will not be liable for indirect, incidental, special, or consequential damages arising from your use of the app.
 
 ## Apple
+
+If you downloaded the app from the App Store, you acknowledge that Apple is not responsible for the app and has no obligation to furnish maintenance or support. To the extent the app fails to meet any warranty, you may notify Apple and receive a refund of the purchase price. Apple is a third-party beneficiary of these Terms.
+
 
 You acknowledge that Apple is not responsible for the app and has no obligation to furnish maintenance or support. To the extent the app fails to meet any warranty, you may notify Apple and receive a refund of the purchase price. Apple is a third-party beneficiary of these Terms.
